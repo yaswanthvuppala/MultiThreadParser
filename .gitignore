@@ -115,3 +115,4 @@ crawler.db
 *.db
 *.sqlite
 *.sqlite3
+implementation_plan(Structured Archituture ).md
